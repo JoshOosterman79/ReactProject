@@ -1,0 +1,3838 @@
+[
+  {
+    "playerid": 1630173,
+    "fname": "Precious",
+    "lname": "Achiuwa",
+    "position": "Forward",
+    "image": "1630173.png"
+  },
+  {
+    "playerid": 203500,
+    "fname": "Steven",
+    "lname": "Adams",
+    "position": "Center",
+    "image": 203500
+  },
+  {
+    "playerid": 1628389,
+    "fname": "Bam",
+    "lname": "Adebayo",
+    "position": "Center-Forward",
+    "image": 1628389
+  },
+  {
+    "playerid": 1630534,
+    "fname": "Ochai",
+    "lname": "Agbaji",
+    "position": "Guard",
+    "image": 1630534
+  },
+  {
+    "playerid": 1630583,
+    "fname": "Santi",
+    "lname": "Aldama",
+    "position": "Forward-Center",
+    "image": 1630583
+  },
+  {
+    "playerid": 1629638,
+    "fname": "Nickeil",
+    "lname": "Alexander-Walker",
+    "position": "Guard",
+    "image": 1629638
+  },
+  {
+    "playerid": 1628960,
+    "fname": "Grayson",
+    "lname": "Allen",
+    "position": "Guard",
+    "image": 1628960
+  },
+  {
+    "playerid": 1628386,
+    "fname": "Jarrett",
+    "lname": "Allen",
+    "position": "Center",
+    "image": 1628386
+  },
+  {
+    "playerid": 1630631,
+    "fname": "Jose",
+    "lname": "Alvarado",
+    "position": "Guard",
+    "image": 1630631
+  },
+  {
+    "playerid": 203937,
+    "fname": "Kyle",
+    "lname": "Anderson",
+    "position": "Forward-Guard",
+    "image": 203937
+  },
+  {
+    "playerid": 203507,
+    "fname": "Giannis",
+    "lname": "Antetokounmpo",
+    "position": "Forward",
+    "image": 203507
+  },
+  {
+    "playerid": 1628961,
+    "fname": "Kostas",
+    "lname": "Antetokounmpo",
+    "position": "Forward",
+    "image": 1628961
+  },
+  {
+    "playerid": 203648,
+    "fname": "Thanasis",
+    "lname": "Antetokounmpo",
+    "position": "Forward",
+    "image": 203648
+  },
+  {
+    "playerid": 1630175,
+    "fname": "Cole",
+    "lname": "Anthony",
+    "position": "Guard",
+    "image": 1630175
+  },
+  {
+    "playerid": 1628384,
+    "fname": "O.G.",
+    "lname": "Anunoby",
+    "position": "Forward",
+    "image": 1628384
+  },
+  {
+    "playerid": 1627853,
+    "fname": "Ryan",
+    "lname": "Arcidiacono",
+    "position": "Guard",
+    "image": 1627853
+  },
+  {
+    "playerid": 201571,
+    "fname": "D.J.",
+    "lname": "Augustin",
+    "position": "Guard",
+    "image": 201571
+  },
+  {
+    "playerid": 1630166,
+    "fname": "Deni",
+    "lname": "Avdija",
+    "position": "Forward",
+    "image": 1630166
+  },
+  {
+    "playerid": 1629028,
+    "fname": "Deandre",
+    "lname": "Ayton",
+    "position": "Center",
+    "image": 1629028
+  },
+  {
+    "playerid": 1628962,
+    "fname": "Udoka",
+    "lname": "Azubuike",
+    "position": "Center-Forward",
+    "image": 1628962
+  },
+  {
+    "playerid": 1630641,
+    "fname": "Ibou",
+    "lname": "Badji",
+    "position": "Center",
+    "image": 1630641
+  },
+  {
+    "playerid": 1628963,
+    "fname": "Marvin",
+    "lname": "Bagley III",
+    "position": "Forward",
+    "image": 1628963
+  },
+  {
+    "playerid": 1631116,
+    "fname": "Patrick",
+    "lname": "Baldwin",
+    "position": "Forward",
+    "image": 1631116
+  },
+  {
+    "playerid": 1630163,
+    "fname": "LaMelo",
+    "lname": "Ball",
+    "position": "Guard",
+    "image": 1630163
+  },
+  {
+    "playerid": 1628964,
+    "fname": "Mo",
+    "lname": "Bamba",
+    "position": "Center",
+    "image": 1628964
+  },
+  {
+    "playerid": 1631094,
+    "fname": "Paolo",
+    "lname": "Banchero",
+    "position": "Forward",
+    "image": 1631094
+  },
+  {
+    "playerid": 1630217,
+    "fname": "Desmond",
+    "lname": "Bane",
+    "position": "Guard",
+    "image": 1630217
+  },
+  {
+    "playerid": 1630625,
+    "fname": "Dalano",
+    "lname": "Banton",
+    "position": "Forward",
+    "image": 1630625
+  },
+  {
+    "playerid": 1631230,
+    "fname": "Dominick",
+    "lname": "Barlow",
+    "position": "Forward",
+    "image": 1631230
+  },
+  {
+    "playerid": 203084,
+    "fname": "Harrison",
+    "lname": "Barnes",
+    "position": "Forward",
+    "image": 203084
+  },
+  {
+    "playerid": 1630567,
+    "fname": "Scottie",
+    "lname": "Barnes",
+    "position": "Forward",
+    "image": 1630567
+  },
+  {
+    "playerid": 1629628,
+    "fname": "RJ",
+    "lname": "Barrett",
+    "position": "Forward-Guard",
+    "image": 1629628
+  },
+  {
+    "playerid": 203115,
+    "fname": "Will",
+    "lname": "Barton",
+    "position": "Guard",
+    "image": 203115
+  },
+  {
+    "playerid": 1629646,
+    "fname": "Charles",
+    "lname": "Bassey",
+    "position": "Center-Forward",
+    "image": 1629646
+  },
+  {
+    "playerid": 1628966,
+    "fname": "Keita",
+    "lname": "Bates-Diop",
+    "position": "Forward",
+    "image": 1628966
+  },
+  {
+    "playerid": 201587,
+    "fname": "Nicolas",
+    "lname": "Batum",
+    "position": "Guard-Forward",
+    "image": 201587
+  },
+  {
+    "playerid": 1629647,
+    "fname": "Darius",
+    "lname": "Bazley",
+    "position": "Forward",
+    "image": 1629647
+  },
+  {
+    "playerid": 203078,
+    "fname": "Bradley",
+    "lname": "Beal",
+    "position": "Guard",
+    "image": 203078
+  },
+  {
+    "playerid": 1627736,
+    "fname": "Malik",
+    "lname": "Beasley",
+    "position": "Guard",
+    "image": 1627736
+  },
+  {
+    "playerid": 1630699,
+    "fname": "MarJon",
+    "lname": "Beauchamp",
+    "position": "Forward",
+    "image": 1630699
+  },
+  {
+    "playerid": 202722,
+    "fname": "Davis",
+    "lname": "Bertans",
+    "position": "Forward",
+    "image": 202722
+  },
+  {
+    "playerid": 201976,
+    "fname": "Patrick",
+    "lname": "Beverley",
+    "position": "Guard",
+    "image": 201976
+  },
+  {
+    "playerid": 1630180,
+    "fname": "Saddiq",
+    "lname": "Bey",
+    "position": "Forward",
+    "image": 1630180
+  },
+  {
+    "playerid": 203920,
+    "fname": "Khem",
+    "lname": "Birch",
+    "position": "Center",
+    "image": 203920
+  },
+  {
+    "playerid": 1629048,
+    "fname": "Goga",
+    "lname": "Bitadze",
+    "position": "Center-Forward",
+    "image": 1629048
+  },
+  {
+    "playerid": 202687,
+    "fname": "Bismack",
+    "lname": "Biyombo",
+    "position": "Center",
+    "image": 202687
+  },
+  {
+    "playerid": 1631205,
+    "fname": "Buddy",
+    "lname": "Boeheim",
+    "position": "Forward",
+    "image": 1631205
+  },
+  {
+    "playerid": 203992,
+    "fname": "Bogdan",
+    "lname": "Bogdanovic",
+    "position": "Guard",
+    "image": 203992
+  },
+  {
+    "playerid": 202711,
+    "fname": "Bojan",
+    "lname": "Bogdanovic",
+    "position": "Forward",
+    "image": 202711
+  },
+  {
+    "playerid": 1629626,
+    "fname": "Bol",
+    "lname": "Bol",
+    "position": "Center-Forward",
+    "image": 1629626
+  },
+  {
+    "playerid": 1630195,
+    "fname": "Leandro",
+    "lname": "Bolmaro",
+    "position": "Forward",
+    "image": 1630195
+  },
+  {
+    "playerid": 1626164,
+    "fname": "Devin",
+    "lname": "Booker",
+    "position": "Guard",
+    "image": 1626164
+  },
+  {
+    "playerid": 1630527,
+    "fname": "Brandon",
+    "lname": "Boston Jr.",
+    "position": "Guard",
+    "image": 1630527
+  },
+  {
+    "playerid": 1628449,
+    "fname": "Chris",
+    "lname": "Boucher",
+    "position": "Forward-Center",
+    "image": 1628449
+  },
+  {
+    "playerid": 1630547,
+    "fname": "James",
+    "lname": "Bouknight",
+    "position": "Guard",
+    "image": 1630547
+  },
+  {
+    "playerid": 1631123,
+    "fname": "Jamaree",
+    "lname": "Bouyea",
+    "position": "Guard",
+    "image": 1631123
+  },
+  {
+    "playerid": 1628396,
+    "fname": "Tony",
+    "lname": "Bradley",
+    "position": "Center-Forward",
+    "image": 1628396
+  },
+  {
+    "playerid": 1631103,
+    "fname": "Malaki",
+    "lname": "Branham",
+    "position": "Forward",
+    "image": 1631103
+  },
+  {
+    "playerid": 1629714,
+    "fname": "Jarrell",
+    "lname": "Brantley",
+    "position": "Forward",
+    "image": 1629714
+  },
+  {
+    "playerid": 1631128,
+    "fname": "Christian",
+    "lname": "Braun",
+    "position": "Guard",
+    "image": 1631128
+  },
+  {
+    "playerid": 1628969,
+    "fname": "Mikal",
+    "lname": "Bridges",
+    "position": "Guard-Forward",
+    "image": 1628969
+  },
+  {
+    "playerid": 1629052,
+    "fname": "Oshae",
+    "lname": "Brissett",
+    "position": "Forward-Guard",
+    "image": 1629052
+  },
+  {
+    "playerid": 1627763,
+    "fname": "Malcolm",
+    "lname": "Brogdon",
+    "position": "Guard",
+    "image": 1627763
+  },
+  {
+    "playerid": 1628415,
+    "fname": "Dillon",
+    "lname": "Brooks",
+    "position": "Guard-Forward",
+    "image": 1628415
+  },
+  {
+    "playerid": 1628971,
+    "fname": "Bruce",
+    "lname": "Brown",
+    "position": "Guard-Forward",
+    "image": 1628971
+  },
+  {
+    "playerid": 1627759,
+    "fname": "Jaylen",
+    "lname": "Brown",
+    "position": "Guard-Forward",
+    "image": 1627759
+  },
+  {
+    "playerid": 1631112,
+    "fname": "Kendall",
+    "lname": "Brown",
+    "position": "Guard",
+    "image": 1631112
+  },
+  {
+    "playerid": 1629650,
+    "fname": "Moses",
+    "lname": "Brown",
+    "position": "Center",
+    "image": 1629650
+  },
+  {
+    "playerid": 1628425,
+    "fname": "Sterling",
+    "lname": "Brown",
+    "position": "Guard-Forward",
+    "image": 1628425
+  },
+  {
+    "playerid": 1630535,
+    "fname": "Greg",
+    "lname": "Brown III",
+    "position": "Forward",
+    "image": 1630535
+  },
+  {
+    "playerid": 1628972,
+    "fname": "Troy",
+    "lname": "Brown Jr.",
+    "position": "Guard-Forward",
+    "image": 1628972
+  },
+  {
+    "playerid": 1628973,
+    "fname": "Jalen",
+    "lname": "Brunson",
+    "position": "Guard",
+    "image": 1628973
+  },
+  {
+    "playerid": 1628418,
+    "fname": "Thomas",
+    "lname": "Bryant",
+    "position": "Center-Forward",
+    "image": 1628418
+  },
+  {
+    "playerid": 203493,
+    "fname": "Reggie",
+    "lname": "Bullock",
+    "position": "Guard-Forward",
+    "image": 203493
+  },
+  {
+    "playerid": 202692,
+    "fname": "Alec",
+    "lname": "Burks",
+    "position": "Guard",
+    "image": 202692
+  },
+  {
+    "playerid": 1629126,
+    "fname": "Deonte",
+    "lname": "Burton",
+    "position": "Guard-Forward",
+    "image": 1629126
+  },
+  {
+    "playerid": 1630215,
+    "fname": "Jared",
+    "lname": "Butler",
+    "position": "Guard",
+    "image": 1630215
+  },
+  {
+    "playerid": 202710,
+    "fname": "Jimmy",
+    "lname": "Butler",
+    "position": "Forward",
+    "image": 202710
+  },
+  {
+    "playerid": 1631219,
+    "fname": "John",
+    "lname": "Butler Jr.",
+    "position": "Forward",
+    "image": 1631219
+  },
+  {
+    "playerid": 1631288,
+    "fname": "Jamal",
+    "lname": "Cain",
+    "position": "Forward",
+    "image": 1631288
+  },
+  {
+    "playerid": 203484,
+    "fname": "Kentavious",
+    "lname": "Caldwell-Pope",
+    "position": "Guard",
+    "image": 203484
+  },
+  {
+    "playerid": 1630267,
+    "fname": "Facundo",
+    "lname": "Campazzo",
+    "position": "Guard",
+    "image": 1630267
+  },
+  {
+    "playerid": 1628427,
+    "fname": "Vlatko",
+    "lname": "Cancar",
+    "position": "Forward",
+    "image": 1628427
+  },
+  {
+    "playerid": 203991,
+    "fname": "Clint",
+    "lname": "Capela",
+    "position": "Center",
+    "image": 203991
+  },
+  {
+    "playerid": 1630176,
+    "fname": "Vernon",
+    "lname": "Carey Jr.",
+    "position": "Center",
+    "image": 1630176
+  },
+  {
+    "playerid": 1628975,
+    "fname": "Jevon",
+    "lname": "Carter",
+    "position": "Guard",
+    "image": 1628975
+  },
+  {
+    "playerid": 1628976,
+    "fname": "Wendell",
+    "lname": "Carter Jr.",
+    "position": "Center-Forward",
+    "image": 1628976
+  },
+  {
+    "playerid": 203487,
+    "fname": "Michael",
+    "lname": "Carter-Williams",
+    "position": "Guard",
+    "image": 203487
+  },
+  {
+    "playerid": 1627936,
+    "fname": "Alex",
+    "lname": "Caruso",
+    "position": "Guard",
+    "image": 1627936
+  },
+  {
+    "playerid": 1626161,
+    "fname": "Willie",
+    "lname": "Cauley-Stein",
+    "position": "Center",
+    "image": 1626161
+  },
+  {
+    "playerid": 1630577,
+    "fname": "Julian",
+    "lname": "Champagnie",
+    "position": "Forward",
+    "image": 1630577
+  },
+  {
+    "playerid": 1630551,
+    "fname": "Justin",
+    "lname": "Champagnie",
+    "position": "Guard-Forward",
+    "image": 1630551
+  },
+  {
+    "playerid": 1631113,
+    "fname": "Kennedy",
+    "lname": "Chandler",
+    "position": "Guard",
+    "image": 1631113
+  },
+  {
+    "playerid": 1631108,
+    "fname": "Max",
+    "lname": "Christie",
+    "position": "Guard",
+    "image": 1631108
+  },
+  {
+    "playerid": 1630528,
+    "fname": "Josh",
+    "lname": "Christopher",
+    "position": "Guard",
+    "image": 1630528
+  },
+  {
+    "playerid": 1629634,
+    "fname": "Brandon",
+    "lname": "Clarke",
+    "position": "Forward",
+    "image": 1629634
+  },
+  {
+    "playerid": 203903,
+    "fname": "Jordan",
+    "lname": "Clarkson",
+    "position": "Guard",
+    "image": 203903
+  },
+  {
+    "playerid": 1629651,
+    "fname": "Nic",
+    "lname": "Claxton",
+    "position": "Center",
+    "image": 1629651
+  },
+  {
+    "playerid": 1629599,
+    "fname": "Amir",
+    "lname": "Coffey",
+    "position": "Guard-Forward",
+    "image": 1629599
+  },
+  {
+    "playerid": 1628381,
+    "fname": "John",
+    "lname": "Collins",
+    "position": "Forward-Center",
+    "image": 1628381
+  },
+  {
+    "playerid": 1628380,
+    "fname": "Zach",
+    "lname": "Collins",
+    "position": "Forward-Center",
+    "image": 1628380
+  },
+  {
+    "playerid": 1628435,
+    "fname": "Chance",
+    "lname": "Comanche",
+    "position": "Center",
+    "image": 1628435
+  },
+  {
+    "playerid": 201144,
+    "fname": "Mike",
+    "lname": "Conley",
+    "position": "Guard",
+    "image": 201144
+  },
+  {
+    "playerid": 1626192,
+    "fname": "Pat",
+    "lname": "Connaughton",
+    "position": "Guard",
+    "image": 1626192
+  },
+  {
+    "playerid": 1641645,
+    "fname": "Xavier",
+    "lname": "Cooks",
+    "position": "Forward",
+    "image": 1641645
+  },
+  {
+    "playerid": 203496,
+    "fname": "Robert",
+    "lname": "Covington",
+    "position": "Forward",
+    "image": 203496
+  },
+  {
+    "playerid": 1628470,
+    "fname": "Torrey",
+    "lname": "Craig",
+    "position": "Forward",
+    "image": 1628470
+  },
+  {
+    "playerid": 203109,
+    "fname": "Jae",
+    "lname": "Crowder",
+    "position": "Forward",
+    "image": 203109
+  },
+  {
+    "playerid": 1629633,
+    "fname": "Jarrett",
+    "lname": "Culver",
+    "position": "Guard-Forward",
+    "image": 1629633
+  },
+  {
+    "playerid": 1630595,
+    "fname": "Cade",
+    "lname": "Cunningham",
+    "position": "Guard",
+    "image": 1630595
+  },
+  {
+    "playerid": 203552,
+    "fname": "Seth",
+    "lname": "Curry",
+    "position": "Guard",
+    "image": 203552
+  },
+  {
+    "playerid": 201939,
+    "fname": "Stephen",
+    "lname": "Curry",
+    "position": "Guard",
+    "image": 201939
+  },
+  {
+    "playerid": 1630700,
+    "fname": "Dyson",
+    "lname": "Daniels",
+    "position": "Guard",
+    "image": 1630700
+  },
+  {
+    "playerid": 203076,
+    "fname": "Anthony",
+    "lname": "Davis",
+    "position": "Forward-Center",
+    "image": 203076
+  },
+  {
+    "playerid": 1631098,
+    "fname": "Johnny",
+    "lname": "Davis",
+    "position": "Guard",
+    "image": 1631098
+  },
+  {
+    "playerid": 1629056,
+    "fname": "Terence",
+    "lname": "Davis",
+    "position": "Guard",
+    "image": 1629056
+  },
+  {
+    "playerid": 1631120,
+    "fname": "JD",
+    "lname": "Davison",
+    "position": "Guard",
+    "image": 1631120
+  },
+  {
+    "playerid": 1630620,
+    "fname": "Darius",
+    "lname": "Days",
+    "position": "Forward",
+    "image": 1630620
+  },
+  {
+    "playerid": 201942,
+    "fname": "DeMar",
+    "lname": "DeRozan",
+    "position": "Guard-Forward",
+    "image": 201942
+  },
+  {
+    "playerid": 203473,
+    "fname": "Dewayne",
+    "lname": "Dedmon",
+    "position": "Center",
+    "image": 203473
+  },
+  {
+    "playerid": 203521,
+    "fname": "Matthew",
+    "lname": "Dellavedova",
+    "position": "Guard",
+    "image": 203521
+  },
+  {
+    "playerid": 1628978,
+    "fname": "Donte",
+    "lname": "DiVincenzo",
+    "position": "Guard",
+    "image": 1628978
+  },
+  {
+    "playerid": 1631217,
+    "fname": "Moussa",
+    "lname": "Diabate",
+    "position": "Forward",
+    "image": 1631217
+  },
+  {
+    "playerid": 1629603,
+    "fname": "Mamadi",
+    "lname": "Diakite",
+    "position": "Forward",
+    "image": 1629603
+  },
+  {
+    "playerid": 1628977,
+    "fname": "Hamidou",
+    "lname": "Diallo",
+    "position": "Guard",
+    "image": 1628977
+  },
+  {
+    "playerid": 203476,
+    "fname": "Gorgui",
+    "lname": "Dieng",
+    "position": "Center",
+    "image": 203476
+  },
+  {
+    "playerid": 1631172,
+    "fname": "Ousmane",
+    "lname": "Dieng",
+    "position": "Forward",
+    "image": 1631172
+  },
+  {
+    "playerid": 203915,
+    "fname": "Spencer",
+    "lname": "Dinwiddie",
+    "position": "Guard",
+    "image": 203915
+  },
+  {
+    "playerid": 1629029,
+    "fname": "Luka",
+    "lname": "Doncic",
+    "position": "Forward-Guard",
+    "image": 1629029
+  },
+  {
+    "playerid": 1628416,
+    "fname": "Tyler",
+    "lname": "Dorsey",
+    "position": "Guard",
+    "image": 1628416
+  },
+  {
+    "playerid": 1629652,
+    "fname": "Luguentz",
+    "lname": "Dort",
+    "position": "Guard",
+    "image": 1629652
+  },
+  {
+    "playerid": 1630245,
+    "fname": "Ayo",
+    "lname": "Dosunmu",
+    "position": "Guard",
+    "image": 1630245
+  },
+  {
+    "playerid": 1629653,
+    "fname": "Devon",
+    "lname": "Dotson",
+    "position": "Guard",
+    "image": 1629653
+  },
+  {
+    "playerid": 1630288,
+    "fname": "Jeff",
+    "lname": "Dowtin Jr.",
+    "position": "Guard",
+    "image": 1630288
+  },
+  {
+    "playerid": 1628408,
+    "fname": "PJ",
+    "lname": "Dozier",
+    "position": "Guard-Forward",
+    "image": 1628408
+  },
+  {
+    "playerid": 201609,
+    "fname": "Goran",
+    "lname": "Dragic",
+    "position": "Guard",
+    "image": 201609
+  },
+  {
+    "playerid": 203083,
+    "fname": "Andre",
+    "lname": "Drummond",
+    "position": "Center",
+    "image": 203083
+  },
+  {
+    "playerid": 1630537,
+    "fname": "Chris",
+    "lname": "Duarte",
+    "position": "Guard",
+    "image": 1630537
+  },
+  {
+    "playerid": 1630561,
+    "fname": "David",
+    "lname": "Duke Jr.",
+    "position": "Guard",
+    "image": 1630561
+  },
+  {
+    "playerid": 1627739,
+    "fname": "Kris",
+    "lname": "Dunn",
+    "position": "Guard",
+    "image": 1627739
+  },
+  {
+    "playerid": 201142,
+    "fname": "Kevin",
+    "lname": "Durant",
+    "position": "Forward",
+    "image": 201142
+  },
+  {
+    "playerid": 1631105,
+    "fname": "Jalen",
+    "lname": "Duren",
+    "position": "Center",
+    "image": 1631105
+  },
+  {
+    "playerid": 1631106,
+    "fname": "Tari",
+    "lname": "Eason",
+    "position": "Forward",
+    "image": 1631106
+  },
+  {
+    "playerid": 1630162,
+    "fname": "Anthony",
+    "lname": "Edwards",
+    "position": "Guard",
+    "image": 1630162
+  },
+  {
+    "playerid": 1630556,
+    "fname": "Kessler",
+    "lname": "Edwards",
+    "position": "Forward",
+    "image": 1630556
+  },
+  {
+    "playerid": 1631165,
+    "fname": "Keon",
+    "lname": "Ellis",
+    "position": "Guard",
+    "image": 1631165
+  },
+  {
+    "playerid": 203954,
+    "fname": "Joel",
+    "lname": "Embiid",
+    "position": "Center-Forward",
+    "image": 203954
+  },
+  {
+    "playerid": 1629234,
+    "fname": "Drew",
+    "lname": "Eubanks",
+    "position": "Forward-Center",
+    "image": 1629234
+  },
+  {
+    "playerid": 202324,
+    "fname": "Derrick",
+    "lname": "Favors",
+    "position": "Forward",
+    "image": 202324
+  },
+  {
+    "playerid": 1628981,
+    "fname": "Bruno",
+    "lname": "Fernando",
+    "position": "Forward-Center",
+    "image": 1628981
+  },
+  {
+    "playerid": 1627827,
+    "fname": "Dorian",
+    "lname": "Finney-Smith",
+    "position": "Forward",
+    "image": 1627827
+  },
+  {
+    "playerid": 1630201,
+    "fname": "Malachi",
+    "lname": "Flynn",
+    "position": "Guard",
+    "image": 1630201
+  },
+  {
+    "playerid": 1631323,
+    "fname": "Simone",
+    "lname": "Fontecchio",
+    "position": "Forward",
+    "image": 1631323
+  },
+  {
+    "playerid": 1627854,
+    "fname": "Bryn",
+    "lname": "Forbes",
+    "position": "Guard",
+    "image": 1627854
+  },
+  {
+    "playerid": 1630235,
+    "fname": "Trent",
+    "lname": "Forrest",
+    "position": "Guard",
+    "image": 1630235
+  },
+  {
+    "playerid": 1630701,
+    "fname": "Michael",
+    "lname": "Foster Jr.",
+    "position": "Forward",
+    "image": 1630701
+  },
+  {
+    "playerid": 203095,
+    "fname": "Evan",
+    "lname": "Fournier",
+    "position": "Guard-Forward",
+    "image": 203095
+  },
+  {
+    "playerid": 1628368,
+    "fname": "De'Aaron",
+    "lname": "Fox",
+    "position": "Guard",
+    "image": 1628368
+  },
+  {
+    "playerid": 1628365,
+    "fname": "Markelle",
+    "lname": "Fultz",
+    "position": "Guard",
+    "image": 1628365
+  },
+  {
+    "playerid": 1629117,
+    "fname": "Wenyen",
+    "lname": "Gabriel",
+    "position": "Forward",
+    "image": 1629117
+  },
+  {
+    "playerid": 1629655,
+    "fname": "Daniel",
+    "lname": "Gafford",
+    "position": "Forward-Center",
+    "image": 1629655
+  },
+  {
+    "playerid": 1629636,
+    "fname": "Darius",
+    "lname": "Garland",
+    "position": "Guard",
+    "image": 1629636
+  },
+  {
+    "playerid": 1630586,
+    "fname": "Usman",
+    "lname": "Garuba",
+    "position": "Forward",
+    "image": 1630586
+  },
+  {
+    "playerid": 1630568,
+    "fname": "Luka",
+    "lname": "Garza",
+    "position": "Center",
+    "image": 1630568
+  },
+  {
+    "playerid": 200752,
+    "fname": "Rudy",
+    "lname": "Gay",
+    "position": "Forward-Guard",
+    "image": 200752
+  },
+  {
+    "playerid": 202331,
+    "fname": "Paul",
+    "lname": "George",
+    "position": "Forward",
+    "image": 202331
+  },
+  {
+    "playerid": 201959,
+    "fname": "Taj",
+    "lname": "Gibson",
+    "position": "Forward",
+    "image": 201959
+  },
+  {
+    "playerid": 1630581,
+    "fname": "Josh",
+    "lname": "Giddey",
+    "position": "Guard",
+    "image": 1630581
+  },
+  {
+    "playerid": 1628983,
+    "fname": "Shai",
+    "lname": "Gilgeous-Alexander",
+    "position": "Guard",
+    "image": 1628983
+  },
+  {
+    "playerid": 1630264,
+    "fname": "Anthony",
+    "lname": "Gill",
+    "position": "Forward",
+    "image": 1630264
+  },
+  {
+    "playerid": 1631367,
+    "fname": "Jacob",
+    "lname": "Gilyard",
+    "position": "Guard",
+    "image": 1631367
+  },
+  {
+    "playerid": 203497,
+    "fname": "Rudy",
+    "lname": "Gobert",
+    "position": "Center",
+    "image": 203497
+  },
+  {
+    "playerid": 1630692,
+    "fname": "Jordan",
+    "lname": "Goodwin",
+    "position": "Guard",
+    "image": 1630692
+  },
+  {
+    "playerid": 203932,
+    "fname": "Aaron",
+    "lname": "Gordon",
+    "position": "Forward",
+    "image": 203932
+  },
+  {
+    "playerid": 201569,
+    "fname": "Eric",
+    "lname": "Gordon",
+    "position": "Guard",
+    "image": 201569
+  },
+  {
+    "playerid": 1628984,
+    "fname": "Devonte'",
+    "lname": "Graham",
+    "position": "Guard",
+    "image": 1628984
+  },
+  {
+    "playerid": 203924,
+    "fname": "Jerami",
+    "lname": "Grant",
+    "position": "Forward",
+    "image": 203924
+  },
+  {
+    "playerid": 1630564,
+    "fname": "RaiQuan",
+    "lname": "Gray",
+    "position": "Forward",
+    "image": 1630564
+  },
+  {
+    "playerid": 1631260,
+    "fname": "AJ",
+    "lname": "Green",
+    "position": "Guard",
+    "image": 1631260
+  },
+  {
+    "playerid": 201980,
+    "fname": "Danny",
+    "lname": "Green",
+    "position": "Guard",
+    "image": 201980
+  },
+  {
+    "playerid": 203110,
+    "fname": "Draymond",
+    "lname": "Green",
+    "position": "Forward",
+    "image": 203110
+  },
+  {
+    "playerid": 203210,
+    "fname": "JaMychal",
+    "lname": "Green",
+    "position": "Forward-Center",
+    "image": 203210
+  },
+  {
+    "playerid": 1630224,
+    "fname": "Jalen",
+    "lname": "Green",
+    "position": "Guard",
+    "image": 1630224
+  },
+  {
+    "playerid": 1629750,
+    "fname": "Javonte",
+    "lname": "Green",
+    "position": "Guard",
+    "image": 1629750
+  },
+  {
+    "playerid": 201145,
+    "fname": "Jeff",
+    "lname": "Green",
+    "position": "Forward",
+    "image": 201145
+  },
+  {
+    "playerid": 1630182,
+    "fname": "Josh",
+    "lname": "Green",
+    "position": "Guard",
+    "image": 1630182
+  },
+  {
+    "playerid": 1631100,
+    "fname": "AJ",
+    "lname": "Griffin",
+    "position": "Forward",
+    "image": 1631100
+  },
+  {
+    "playerid": 201933,
+    "fname": "Blake",
+    "lname": "Griffin",
+    "position": "Forward",
+    "image": 201933
+  },
+  {
+    "playerid": 1629656,
+    "fname": "Quentin",
+    "lname": "Grimes",
+    "position": "Guard",
+    "image": 1629656
+  },
+  {
+    "playerid": 1629060,
+    "fname": "Rui",
+    "lname": "Hachimura",
+    "position": "Forward",
+    "image": 1629060
+  },
+  {
+    "playerid": 1630169,
+    "fname": "Tyrese",
+    "lname": "Haliburton",
+    "position": "Guard",
+    "image": 1630169
+  },
+  {
+    "playerid": 1631160,
+    "fname": "Jordan",
+    "lname": "Hall",
+    "position": "Guard",
+    "image": 1631160
+  },
+  {
+    "playerid": 1630181,
+    "fname": "R.J.",
+    "lname": "Hampton",
+    "position": "Guard",
+    "image": 1630181
+  },
+  {
+    "playerid": 203501,
+    "fname": "Tim",
+    "lname": "Hardaway Jr.",
+    "position": "Guard-Forward",
+    "image": 203501
+  },
+  {
+    "playerid": 201935,
+    "fname": "James",
+    "lname": "Harden",
+    "position": "Guard",
+    "image": 201935
+  },
+  {
+    "playerid": 1630702,
+    "fname": "Jaden",
+    "lname": "Hardy",
+    "position": "Guard",
+    "image": 1630702
+  },
+  {
+    "playerid": 1631199,
+    "fname": "Ron",
+    "lname": "Harper Jr.",
+    "position": "Forward",
+    "image": 1631199
+  },
+  {
+    "playerid": 1626149,
+    "fname": "Montrezl",
+    "lname": "Harrell",
+    "position": "Forward-Center",
+    "image": 1626149
+  },
+  {
+    "playerid": 203914,
+    "fname": "Gary",
+    "lname": "Harris",
+    "position": "Guard",
+    "image": 203914
+  },
+  {
+    "playerid": 203925,
+    "fname": "Joe",
+    "lname": "Harris",
+    "position": "Guard-Forward",
+    "image": 203925
+  },
+  {
+    "playerid": 1630284,
+    "fname": "Kevon",
+    "lname": "Harris",
+    "position": "Guard",
+    "image": 1630284
+  },
+  {
+    "playerid": 202699,
+    "fname": "Tobias",
+    "lname": "Harris",
+    "position": "Forward",
+    "image": 202699
+  },
+  {
+    "playerid": 1627885,
+    "fname": "Shaquille",
+    "lname": "Harrison",
+    "position": "Guard",
+    "image": 1627885
+  },
+  {
+    "playerid": 1628404,
+    "fname": "Josh",
+    "lname": "Hart",
+    "position": "Guard",
+    "image": 1628404
+  },
+  {
+    "playerid": 1628392,
+    "fname": "Isaiah",
+    "lname": "Hartenstein",
+    "position": "Center-Forward",
+    "image": 1628392
+  },
+  {
+    "playerid": 2617,
+    "fname": "Udonis",
+    "lname": "Haslem",
+    "position": "Forward",
+    "image": 2617
+  },
+  {
+    "playerid": 1630573,
+    "fname": "Sam",
+    "lname": "Hauser",
+    "position": "Forward",
+    "image": 1630573
+  },
+  {
+    "playerid": 1629637,
+    "fname": "Jaxson",
+    "lname": "Hayes",
+    "position": "Center-Forward",
+    "image": 1629637
+  },
+  {
+    "playerid": 1630165,
+    "fname": "Killian",
+    "lname": "Hayes",
+    "position": "Guard",
+    "image": 1630165
+  },
+  {
+    "playerid": 202330,
+    "fname": "Gordon",
+    "lname": "Hayward",
+    "position": "Forward",
+    "image": 202330
+  },
+  {
+    "playerid": 1627823,
+    "fname": "Juancho",
+    "lname": "Hernangomez",
+    "position": "Forward",
+    "image": 1627823
+  },
+  {
+    "playerid": 1626195,
+    "fname": "Willy",
+    "lname": "Hernangomez",
+    "position": "Center-Forward",
+    "image": 1626195
+  },
+  {
+    "playerid": 1629639,
+    "fname": "Tyler",
+    "lname": "Herro",
+    "position": "Guard",
+    "image": 1629639
+  },
+  {
+    "playerid": 1627741,
+    "fname": "Buddy",
+    "lname": "Hield",
+    "position": "Guard",
+    "image": 1627741
+  },
+  {
+    "playerid": 1629312,
+    "fname": "Haywood",
+    "lname": "Highsmith",
+    "position": "Forward",
+    "image": 1629312
+  },
+  {
+    "playerid": 201588,
+    "fname": "George",
+    "lname": "Hill",
+    "position": "Guard",
+    "image": 201588
+  },
+  {
+    "playerid": 1630792,
+    "fname": "Malcolm",
+    "lname": "Hill",
+    "position": "Forward",
+    "image": 1630792
+  },
+  {
+    "playerid": 1628988,
+    "fname": "Aaron",
+    "lname": "Holiday",
+    "position": "Guard",
+    "image": 1628988
+  },
+  {
+    "playerid": 201950,
+    "fname": "Jrue",
+    "lname": "Holiday",
+    "position": "Guard",
+    "image": 201950
+  },
+  {
+    "playerid": 203200,
+    "fname": "Justin",
+    "lname": "Holiday",
+    "position": "Forward-Guard",
+    "image": 203200
+  },
+  {
+    "playerid": 1626158,
+    "fname": "Richaun",
+    "lname": "Holmes",
+    "position": "Forward",
+    "image": 1626158
+  },
+  {
+    "playerid": 201143,
+    "fname": "Al",
+    "lname": "Horford",
+    "position": "Center-Forward",
+    "image": 201143
+  },
+  {
+    "playerid": 1629659,
+    "fname": "Talen",
+    "lname": "Horton-Tucker",
+    "position": "Guard",
+    "image": 1629659
+  },
+  {
+    "playerid": 1627863,
+    "fname": "Danuel",
+    "lname": "House Jr.",
+    "position": "Forward-Guard",
+    "image": 1627863
+  },
+  {
+    "playerid": 1631216,
+    "fname": "Caleb",
+    "lname": "Houstan",
+    "position": "Guard",
+    "image": 1631216
+  },
+  {
+    "playerid": 1631309,
+    "fname": "Trevor",
+    "lname": "Hudgins",
+    "position": "Guard",
+    "image": 1631309
+  },
+  {
+    "playerid": 1628989,
+    "fname": "Kevin",
+    "lname": "Huerter",
+    "position": "Guard-Forward",
+    "image": 1628989
+  },
+  {
+    "playerid": 1630643,
+    "fname": "Jay",
+    "lname": "Huff",
+    "position": "Center",
+    "image": 1630643
+  },
+  {
+    "playerid": 1630624,
+    "fname": "Feron",
+    "lname": "Hunt",
+    "position": "Forward",
+    "image": 1630624
+  },
+  {
+    "playerid": 1629631,
+    "fname": "De'Andre",
+    "lname": "Hunter",
+    "position": "Forward-Guard",
+    "image": 1629631
+  },
+  {
+    "playerid": 1630538,
+    "fname": "Bones",
+    "lname": "Hyland",
+    "position": "Guard",
+    "image": 1630538
+  },
+  {
+    "playerid": 201586,
+    "fname": "Serge",
+    "lname": "Ibaka",
+    "position": "Forward",
+    "image": 201586
+  },
+  {
+    "playerid": 2738,
+    "fname": "Andre",
+    "lname": "Iguodala",
+    "position": "Guard-Forward",
+    "image": 2738
+  },
+  {
+    "playerid": 204060,
+    "fname": "Joe",
+    "lname": "Ingles",
+    "position": "Forward-Guard",
+    "image": 204060
+  },
+  {
+    "playerid": 1627742,
+    "fname": "Brandon",
+    "lname": "Ingram",
+    "position": "Forward",
+    "image": 1627742
+  },
+  {
+    "playerid": 202681,
+    "fname": "Kyrie",
+    "lname": "Irving",
+    "position": "Guard",
+    "image": 202681
+  },
+  {
+    "playerid": 1628371,
+    "fname": "Jonathan",
+    "lname": "Isaac",
+    "position": "Forward",
+    "image": 1628371
+  },
+  {
+    "playerid": 1631093,
+    "fname": "Jaden",
+    "lname": "Ivey",
+    "position": "Guard",
+    "image": 1631093
+  },
+  {
+    "playerid": 1628402,
+    "fname": "Frank",
+    "lname": "Jackson",
+    "position": "Guard",
+    "image": 1628402
+  },
+  {
+    "playerid": 1630543,
+    "fname": "Isaiah",
+    "lname": "Jackson",
+    "position": "Forward",
+    "image": 1630543
+  },
+  {
+    "playerid": 1628382,
+    "fname": "Justin",
+    "lname": "Jackson",
+    "position": "Forward",
+    "image": 1628382
+  },
+  {
+    "playerid": 1631245,
+    "fname": "Quenton",
+    "lname": "Jackson",
+    "position": "Guard",
+    "image": 1631245
+  },
+  {
+    "playerid": 202704,
+    "fname": "Reggie",
+    "lname": "Jackson",
+    "position": "Guard",
+    "image": 202704
+  },
+  {
+    "playerid": 1628991,
+    "fname": "Jaren",
+    "lname": "Jackson Jr.",
+    "position": "Forward-Center",
+    "image": 1628991
+  },
+  {
+    "playerid": 2544,
+    "fname": "LeBron",
+    "lname": "James",
+    "position": "Forward",
+    "image": 2544
+  },
+  {
+    "playerid": 1629610,
+    "fname": "DaQuan",
+    "lname": "Jeffries",
+    "position": "Guard-Forward",
+    "image": 1629610
+  },
+  {
+    "playerid": 1629660,
+    "fname": "Ty",
+    "lname": "Jerome",
+    "position": "Guard-Forward",
+    "image": 1629660
+  },
+  {
+    "playerid": 1630198,
+    "fname": "Isaiah",
+    "lname": "Joe",
+    "position": "Guard",
+    "image": 1630198
+  },
+  {
+    "playerid": 1628993,
+    "fname": "Alize",
+    "lname": "Johnson",
+    "position": "Forward",
+    "image": 1628993
+  },
+  {
+    "playerid": 1629661,
+    "fname": "Cameron",
+    "lname": "Johnson",
+    "position": "Forward",
+    "image": 1629661
+  },
+  {
+    "playerid": 1630552,
+    "fname": "Jalen",
+    "lname": "Johnson",
+    "position": "Forward",
+    "image": 1630552
+  },
+  {
+    "playerid": 201949,
+    "fname": "James",
+    "lname": "Johnson",
+    "position": "Forward",
+    "image": 201949
+  },
+  {
+    "playerid": 1629640,
+    "fname": "Keldon",
+    "lname": "Johnson",
+    "position": "Forward-Guard",
+    "image": 1629640
+  },
+  {
+    "playerid": 1630553,
+    "fname": "Keon",
+    "lname": "Johnson",
+    "position": "Guard",
+    "image": 1630553
+  },
+  {
+    "playerid": 1626169,
+    "fname": "Stanley",
+    "lname": "Johnson",
+    "position": "Forward-Guard",
+    "image": 1626169
+  },
+  {
+    "playerid": 203999,
+    "fname": "Nikola",
+    "lname": "Jokic",
+    "position": "Center",
+    "image": 203999
+  },
+  {
+    "playerid": 1630637,
+    "fname": "Carlik",
+    "lname": "Jones",
+    "position": "Guard",
+    "image": 1630637
+  },
+  {
+    "playerid": 1627745,
+    "fname": "Damian",
+    "lname": "Jones",
+    "position": "Center",
+    "image": 1627745
+  },
+  {
+    "playerid": 1630529,
+    "fname": "Herbert",
+    "lname": "Jones",
+    "position": "Forward",
+    "image": 1630529
+  },
+  {
+    "playerid": 1630539,
+    "fname": "Kai",
+    "lname": "Jones",
+    "position": "Center-Forward",
+    "image": 1630539
+  },
+  {
+    "playerid": 1630200,
+    "fname": "Tre",
+    "lname": "Jones",
+    "position": "Guard",
+    "image": 1630200
+  },
+  {
+    "playerid": 1626145,
+    "fname": "Tyus",
+    "lname": "Jones",
+    "position": "Guard",
+    "image": 1626145
+  },
+  {
+    "playerid": 1627884,
+    "fname": "Derrick",
+    "lname": "Jones Jr.",
+    "position": "Forward",
+    "image": 1627884
+  },
+  {
+    "playerid": 201599,
+    "fname": "DeAndre",
+    "lname": "Jordan",
+    "position": "Center",
+    "image": 201599
+  },
+  {
+    "playerid": 202709,
+    "fname": "Cory",
+    "lname": "Joseph",
+    "position": "Guard",
+    "image": 202709
+  },
+  {
+    "playerid": 1631107,
+    "fname": "Nikola",
+    "lname": "Jovic",
+    "position": "Forward",
+    "image": 1631107
+  },
+  {
+    "playerid": 1630548,
+    "fname": "Johnny",
+    "lname": "Juzang",
+    "position": "Guard",
+    "image": 1630548
+  },
+  {
+    "playerid": 1629662,
+    "fname": "Mfiondu",
+    "lname": "Kabengele",
+    "position": "Center",
+    "image": 1629662
+  },
+  {
+    "playerid": 1626163,
+    "fname": "Frank",
+    "lname": "Kaminsky",
+    "position": "Forward-Center",
+    "image": 1626163
+  },
+  {
+    "playerid": 1631211,
+    "fname": "Trevor",
+    "lname": "Keels",
+    "position": "Guard",
+    "image": 1631211
+  },
+  {
+    "playerid": 1628379,
+    "fname": "Luke",
+    "lname": "Kennard",
+    "position": "Guard",
+    "image": 1628379
+  },
+  {
+    "playerid": 1631117,
+    "fname": "Walker",
+    "lname": "Kessler",
+    "position": "Center",
+    "image": 1631117
+  },
+  {
+    "playerid": 1630296,
+    "fname": "Braxton",
+    "lname": "Key",
+    "position": "Forward",
+    "image": 1630296
+  },
+  {
+    "playerid": 1629663,
+    "fname": "Louis",
+    "lname": "King",
+    "position": "Forward",
+    "image": 1629663
+  },
+  {
+    "playerid": 1630557,
+    "fname": "Corey",
+    "lname": "Kispert",
+    "position": "Forward",
+    "image": 1630557
+  },
+  {
+    "playerid": 1628467,
+    "fname": "Maxi",
+    "lname": "Kleber",
+    "position": "Forward",
+    "image": 1628467
+  },
+  {
+    "playerid": 1630233,
+    "fname": "Nathan",
+    "lname": "Knight",
+    "position": "Forward-Center",
+    "image": 1630233
+  },
+  {
+    "playerid": 1628995,
+    "fname": "Kevin",
+    "lname": "Knox II",
+    "position": "Forward",
+    "image": 1628995
+  },
+  {
+    "playerid": 1631132,
+    "fname": "Christian",
+    "lname": "Koloko",
+    "position": "Center",
+    "image": 1631132
+  },
+  {
+    "playerid": 1629723,
+    "fname": "John",
+    "lname": "Konchar",
+    "position": "Guard",
+    "image": 1629723
+  },
+  {
+    "playerid": 1627788,
+    "fname": "Furkan",
+    "lname": "Korkmaz",
+    "position": "Guard-Forward",
+    "image": 1627788
+  },
+  {
+    "playerid": 1628436,
+    "fname": "Luke",
+    "lname": "Kornet",
+    "position": "Center-Forward",
+    "image": 1628436
+  },
+  {
+    "playerid": 1630249,
+    "fname": "Vit",
+    "lname": "Krejci",
+    "position": "Guard",
+    "image": 1630249
+  },
+  {
+    "playerid": 1630228,
+    "fname": "Jonathan",
+    "lname": "Kuminga",
+    "position": "Forward",
+    "image": 1630228
+  },
+  {
+    "playerid": 1628398,
+    "fname": "Kyle",
+    "lname": "Kuzma",
+    "position": "Forward",
+    "image": 1628398
+  },
+  {
+    "playerid": 1631222,
+    "fname": "Jake",
+    "lname": "LaRavia",
+    "position": "Forward",
+    "image": 1631222
+  },
+  {
+    "playerid": 203897,
+    "fname": "Zach",
+    "lname": "LaVine",
+    "position": "Guard",
+    "image": 203897
+  },
+  {
+    "playerid": 1630237,
+    "fname": "Anthony",
+    "lname": "Lamb",
+    "position": "Forward",
+    "image": 1630237
+  },
+  {
+    "playerid": 1629111,
+    "fname": "Jock",
+    "lname": "Landale",
+    "position": "Center",
+    "image": 1629111
+  },
+  {
+    "playerid": 1629641,
+    "fname": "Romeo",
+    "lname": "Langford",
+    "position": "Guard-Forward",
+    "image": 1629641
+  },
+  {
+    "playerid": 1630639,
+    "fname": "A.J.",
+    "lname": "Lawson",
+    "position": "Guard",
+    "image": 1630639
+  },
+  {
+    "playerid": 1627747,
+    "fname": "Caris",
+    "lname": "LeVert",
+    "position": "Guard",
+    "image": 1627747
+  },
+  {
+    "playerid": 1627814,
+    "fname": "Damion",
+    "lname": "Lee",
+    "position": "Guard-Forward",
+    "image": 1627814
+  },
+  {
+    "playerid": 1630240,
+    "fname": "Saben",
+    "lname": "Lee",
+    "position": "Guard",
+    "image": 1630240
+  },
+  {
+    "playerid": 203458,
+    "fname": "Alex",
+    "lname": "Len",
+    "position": "Center",
+    "image": 203458
+  },
+  {
+    "playerid": 202695,
+    "fname": "Kawhi",
+    "lname": "Leonard",
+    "position": "Forward",
+    "image": 202695
+  },
+  {
+    "playerid": 203086,
+    "fname": "Meyers",
+    "lname": "Leonard",
+    "position": "Forward-Center",
+    "image": 203086
+  },
+  {
+    "playerid": 1630184,
+    "fname": "Kira",
+    "lname": "Lewis Jr.",
+    "position": "Guard",
+    "image": 1630184
+  },
+  {
+    "playerid": 1630604,
+    "fname": "E.J.",
+    "lname": "Liddell",
+    "position": "Forward",
+    "image": 1630604
+  },
+  {
+    "playerid": 203081,
+    "fname": "Damian",
+    "lname": "Lillard",
+    "position": "Guard",
+    "image": 203081
+  },
+  {
+    "playerid": 1629642,
+    "fname": "Nassir",
+    "lname": "Little",
+    "position": "Forward-Guard",
+    "image": 1629642
+  },
+  {
+    "playerid": 1630587,
+    "fname": "Isaiah",
+    "lname": "Livers",
+    "position": "Forward",
+    "image": 1630587
+  },
+  {
+    "playerid": 1631254,
+    "fname": "Kenneth",
+    "lname": "Lofton Jr.",
+    "position": "Forward",
+    "image": 1631254
+  },
+  {
+    "playerid": 1626172,
+    "fname": "Kevon",
+    "lname": "Looney",
+    "position": "Forward",
+    "image": 1626172
+  },
+  {
+    "playerid": 201572,
+    "fname": "Brook",
+    "lname": "Lopez",
+    "position": "Center",
+    "image": 201572
+  },
+  {
+    "playerid": 201577,
+    "fname": "Robin",
+    "lname": "Lopez",
+    "position": "Center",
+    "image": 201577
+  },
+  {
+    "playerid": 201567,
+    "fname": "Kevin",
+    "lname": "Love",
+    "position": "Forward-Center",
+    "image": 201567
+  },
+  {
+    "playerid": 200768,
+    "fname": "Kyle",
+    "lname": "Lowry",
+    "position": "Guard",
+    "image": 200768
+  },
+  {
+    "playerid": 1626168,
+    "fname": "Trey",
+    "lname": "Lyles",
+    "position": "Forward",
+    "image": 1626168
+  },
+  {
+    "playerid": 1630177,
+    "fname": "Theo",
+    "lname": "Maledon",
+    "position": "Guard",
+    "image": 1630177
+  },
+  {
+    "playerid": 1630572,
+    "fname": "Sandro",
+    "lname": "Mamukelashvili",
+    "position": "Forward-Center",
+    "image": 1630572
+  },
+  {
+    "playerid": 1629611,
+    "fname": "Terance",
+    "lname": "Mann",
+    "position": "Guard-Forward",
+    "image": 1629611
+  },
+  {
+    "playerid": 1630544,
+    "fname": "Tre",
+    "lname": "Mann",
+    "position": "Guard",
+    "image": 1630544
+  },
+  {
+    "playerid": 1626246,
+    "fname": "Boban",
+    "lname": "Marjanovic",
+    "position": "Center",
+    "image": 1626246
+  },
+  {
+    "playerid": 1628374,
+    "fname": "Lauri",
+    "lname": "Markkanen",
+    "position": "Forward-Center",
+    "image": 1628374
+  },
+  {
+    "playerid": 1630230,
+    "fname": "Naji",
+    "lname": "Marshall",
+    "position": "Forward",
+    "image": 1630230
+  },
+  {
+    "playerid": 1628997,
+    "fname": "Caleb",
+    "lname": "Martin",
+    "position": "Forward",
+    "image": 1628997
+  },
+  {
+    "playerid": 1628998,
+    "fname": "Cody",
+    "lname": "Martin",
+    "position": "Forward",
+    "image": 1628998
+  },
+  {
+    "playerid": 1631213,
+    "fname": "Tyrese",
+    "lname": "Martin",
+    "position": "Guard",
+    "image": 1631213
+  },
+  {
+    "playerid": 1630231,
+    "fname": "Kenyon",
+    "lname": "Martin Jr.",
+    "position": "Forward",
+    "image": 1630231
+  },
+  {
+    "playerid": 1629726,
+    "fname": "Garrison",
+    "lname": "Mathews",
+    "position": "Guard",
+    "image": 1629726
+  },
+  {
+    "playerid": 1631097,
+    "fname": "Bennedict",
+    "lname": "Mathurin",
+    "position": "Guard-Forward",
+    "image": 1631097
+  },
+  {
+    "playerid": 202083,
+    "fname": "Wesley",
+    "lname": "Matthews",
+    "position": "Guard",
+    "image": 202083
+  },
+  {
+    "playerid": 1630178,
+    "fname": "Tyrese",
+    "lname": "Maxey",
+    "position": "Guard",
+    "image": 1630178
+  },
+  {
+    "playerid": 1630219,
+    "fname": "Skylar",
+    "lname": "Mays",
+    "position": "Guard",
+    "image": 1630219
+  },
+  {
+    "playerid": 1630540,
+    "fname": "Miles",
+    "lname": "McBride",
+    "position": "Guard",
+    "image": 1630540
+  },
+  {
+    "playerid": 1630644,
+    "fname": "Mac",
+    "lname": "McClung",
+    "position": "Guard",
+    "image": 1630644
+  },
+  {
+    "playerid": 203468,
+    "fname": "CJ",
+    "lname": "McCollum",
+    "position": "Guard",
+    "image": 203468
+  },
+  {
+    "playerid": 204456,
+    "fname": "T.J.",
+    "lname": "McConnell",
+    "position": "Guard",
+    "image": 204456
+  },
+  {
+    "playerid": 1630183,
+    "fname": "Jaden",
+    "lname": "McDaniels",
+    "position": "Forward",
+    "image": 1630183
+  },
+  {
+    "playerid": 1629667,
+    "fname": "Jalen",
+    "lname": "McDaniels",
+    "position": "Forward-Center",
+    "image": 1629667
+  },
+  {
+    "playerid": 203926,
+    "fname": "Doug",
+    "lname": "McDermott",
+    "position": "Forward",
+    "image": 203926
+  },
+  {
+    "playerid": 201580,
+    "fname": "JaVale",
+    "lname": "McGee",
+    "position": "Center-Forward",
+    "image": 201580
+  },
+  {
+    "playerid": 1631121,
+    "fname": "Bryce",
+    "lname": "McGowens",
+    "position": "Guard",
+    "image": 1631121
+  },
+  {
+    "playerid": 203585,
+    "fname": "Rodney",
+    "lname": "McGruder",
+    "position": "Guard",
+    "image": 203585
+  },
+  {
+    "playerid": 1629162,
+    "fname": "Jordan",
+    "lname": "McLaughlin",
+    "position": "Guard",
+    "image": 1629162
+  },
+  {
+    "playerid": 1629001,
+    "fname": "De'Anthony",
+    "lname": "Melton",
+    "position": "Guard",
+    "image": 1629001
+  },
+  {
+    "playerid": 1630241,
+    "fname": "Sam",
+    "lname": "Merrill",
+    "position": "Guard",
+    "image": 1630241
+  },
+  {
+    "playerid": 1629002,
+    "fname": "Chimezie",
+    "lname": "Metu",
+    "position": "Forward-Center",
+    "image": 1629002
+  },
+  {
+    "playerid": 203114,
+    "fname": "Khris",
+    "lname": "Middleton",
+    "position": "Forward",
+    "image": 203114
+  },
+  {
+    "playerid": 201988,
+    "fname": "Patty",
+    "lname": "Mills",
+    "position": "Guard",
+    "image": 201988
+  },
+  {
+    "playerid": 1629003,
+    "fname": "Shake",
+    "lname": "Milton",
+    "position": "Guard-Forward",
+    "image": 1629003
+  },
+  {
+    "playerid": 1631303,
+    "fname": "Justin",
+    "lname": "Minaya",
+    "position": "Forward",
+    "image": 1631303
+  },
+  {
+    "playerid": 1631169,
+    "fname": "Josh",
+    "lname": "Minott",
+    "position": "Forward",
+    "image": 1631169
+  },
+  {
+    "playerid": 1630558,
+    "fname": "Davion",
+    "lname": "Mitchell",
+    "position": "Guard",
+    "image": 1630558
+  },
+  {
+    "playerid": 1628378,
+    "fname": "Donovan",
+    "lname": "Mitchell",
+    "position": "Guard",
+    "image": 1628378
+  },
+  {
+    "playerid": 1630596,
+    "fname": "Evan",
+    "lname": "Mobley",
+    "position": "Center",
+    "image": 1630596
+  },
+  {
+    "playerid": 1630600,
+    "fname": "Isaiah",
+    "lname": "Mobley",
+    "position": "Forward",
+    "image": 1630600
+  },
+  {
+    "playerid": 1631320,
+    "fname": "Chima",
+    "lname": "Moneke",
+    "position": "Forward",
+    "image": 1631320
+  },
+  {
+    "playerid": 1628370,
+    "fname": "Malik",
+    "lname": "Monk",
+    "position": "Guard",
+    "image": 1628370
+  },
+  {
+    "playerid": 1630541,
+    "fname": "Moses",
+    "lname": "Moody",
+    "position": "Guard",
+    "image": 1630541
+  },
+  {
+    "playerid": 1629875,
+    "fname": "Xavier",
+    "lname": "Moon",
+    "position": "Guard",
+    "image": 1629875
+  },
+  {
+    "playerid": 1631111,
+    "fname": "Wendell",
+    "lname": "Moore Jr.",
+    "position": "Guard",
+    "image": 1631111
+  },
+  {
+    "playerid": 1629630,
+    "fname": "Ja",
+    "lname": "Morant",
+    "position": "Guard",
+    "image": 1629630
+  },
+  {
+    "playerid": 202693,
+    "fname": "Markieff",
+    "lname": "Morris",
+    "position": "Forward",
+    "image": 202693
+  },
+  {
+    "playerid": 1628420,
+    "fname": "Monte",
+    "lname": "Morris",
+    "position": "Guard",
+    "image": 1628420
+  },
+  {
+    "playerid": 202694,
+    "fname": "Marcus",
+    "lname": "Morris Sr.",
+    "position": "Forward",
+    "image": 202694
+  },
+  {
+    "playerid": 1630530,
+    "fname": "Trey",
+    "lname": "Murphy III",
+    "position": "Forward",
+    "image": 1630530
+  },
+  {
+    "playerid": 1627749,
+    "fname": "Dejounte",
+    "lname": "Murray",
+    "position": "Guard",
+    "image": 1627749
+  },
+  {
+    "playerid": 1627750,
+    "fname": "Jamal",
+    "lname": "Murray",
+    "position": "Guard",
+    "image": 1627750
+  },
+  {
+    "playerid": 1631099,
+    "fname": "Keegan",
+    "lname": "Murray",
+    "position": "Forward",
+    "image": 1631099
+  },
+  {
+    "playerid": 203488,
+    "fname": "Mike",
+    "lname": "Muscala",
+    "position": "Forward-Center",
+    "image": 203488
+  },
+  {
+    "playerid": 1629004,
+    "fname": "Svi",
+    "lname": "Mykhailiuk",
+    "position": "Guard-Forward",
+    "image": 1629004
+  },
+  {
+    "playerid": 1626204,
+    "fname": "Larry",
+    "lname": "Nance Jr.",
+    "position": "Forward-Center",
+    "image": 1626204
+  },
+  {
+    "playerid": 1629614,
+    "fname": "Andrew",
+    "lname": "Nembhard",
+    "position": "Guard-Forward",
+    "image": 1629614
+  },
+  {
+    "playerid": 1630174,
+    "fname": "Aaron",
+    "lname": "Nesmith",
+    "position": "Guard-Forward",
+    "image": 1630174
+  },
+  {
+    "playerid": 203526,
+    "fname": "Raul",
+    "lname": "Neto",
+    "position": "Guard",
+    "image": 203526
+  },
+  {
+    "playerid": 1627777,
+    "fname": "Georges",
+    "lname": "Niang",
+    "position": "Forward",
+    "image": 1627777
+  },
+  {
+    "playerid": 1630227,
+    "fname": "Daishen",
+    "lname": "Nix",
+    "position": "Guard",
+    "image": 1630227
+  },
+  {
+    "playerid": 1630192,
+    "fname": "Zeke",
+    "lname": "Nnaji",
+    "position": "Forward-Center",
+    "image": 1630192
+  },
+  {
+    "playerid": 203457,
+    "fname": "Nerlens",
+    "lname": "Noel",
+    "position": "Center-Forward",
+    "image": 203457
+  },
+  {
+    "playerid": 1629669,
+    "fname": "Jaylen",
+    "lname": "Nowell",
+    "position": "Guard",
+    "image": 1629669
+  },
+  {
+    "playerid": 1628373,
+    "fname": "Frank",
+    "lname": "Ntilikina",
+    "position": "Guard",
+    "image": 1628373
+  },
+  {
+    "playerid": 1629134,
+    "fname": "Kendrick",
+    "lname": "Nunn",
+    "position": "Guard",
+    "image": 1629134
+  },
+  {
+    "playerid": 203994,
+    "fname": "Jusuf",
+    "lname": "Nurkic",
+    "position": "Center",
+    "image": 203994
+  },
+  {
+    "playerid": 1629670,
+    "fname": "Jordan",
+    "lname": "Nwora",
+    "position": "Forward",
+    "image": 1629670
+  },
+  {
+    "playerid": 1626220,
+    "fname": "Royce",
+    "lname": "O'Neale",
+    "position": "Forward",
+    "image": 1626220
+  },
+  {
+    "playerid": 1629643,
+    "fname": "Chuma",
+    "lname": "Okeke",
+    "position": "Forward",
+    "image": 1629643
+  },
+  {
+    "playerid": 1629006,
+    "fname": "Josh",
+    "lname": "Okogie",
+    "position": "Guard",
+    "image": 1629006
+  },
+  {
+    "playerid": 1630168,
+    "fname": "Onyeka",
+    "lname": "Okongwu",
+    "position": "Forward-Center",
+    "image": 1630168
+  },
+  {
+    "playerid": 1630171,
+    "fname": "Isaac",
+    "lname": "Okoro",
+    "position": "Forward-Guard",
+    "image": 1630171
+  },
+  {
+    "playerid": 1629644,
+    "fname": "KZ",
+    "lname": "Okpala",
+    "position": "Forward-Guard",
+    "image": 1629644
+  },
+  {
+    "playerid": 203506,
+    "fname": "Victor",
+    "lname": "Oladipo",
+    "position": "Guard",
+    "image": 203506
+  },
+  {
+    "playerid": 203482,
+    "fname": "Kelly",
+    "lname": "Olynyk",
+    "position": "Forward-Center",
+    "image": 203482
+  },
+  {
+    "playerid": 1630647,
+    "fname": "Eugene",
+    "lname": "Omoruyi",
+    "position": "Forward",
+    "image": 1630647
+  },
+  {
+    "playerid": 1626224,
+    "fname": "Cedi",
+    "lname": "Osman",
+    "position": "Forward",
+    "image": 1626224
+  },
+  {
+    "playerid": 1626162,
+    "fname": "Kelly",
+    "lname": "Oubre Jr.",
+    "position": "Forward-Guard",
+    "image": 1626162
+  },
+  {
+    "playerid": 101108,
+    "fname": "Chris",
+    "lname": "Paul",
+    "position": "Guard",
+    "image": 101108
+  },
+  {
+    "playerid": 1626166,
+    "fname": "Cameron",
+    "lname": "Payne",
+    "position": "Guard",
+    "image": 1626166
+  },
+  {
+    "playerid": 1627780,
+    "fname": "Gary",
+    "lname": "Payton II",
+    "position": "Guard",
+    "image": 1627780
+  },
+  {
+    "playerid": 1629033,
+    "fname": "Theo",
+    "lname": "Pinson",
+    "position": "Guard-Forward",
+    "image": 1629033
+  },
+  {
+    "playerid": 1630590,
+    "fname": "Scotty",
+    "lname": "Pippen Jr.",
+    "position": "Guard",
+    "image": 1630590
+  },
+  {
+    "playerid": 203486,
+    "fname": "Mason",
+    "lname": "Plumlee",
+    "position": "Forward-Center",
+    "image": 203486
+  },
+  {
+    "playerid": 1627751,
+    "fname": "Jakob",
+    "lname": "Poeltl",
+    "position": "Center",
+    "image": 1627751
+  },
+  {
+    "playerid": 1630197,
+    "fname": "Aleksej",
+    "lname": "Pokusevski",
+    "position": "Forward",
+    "image": 1630197
+  },
+  {
+    "playerid": 1629673,
+    "fname": "Jordan",
+    "lname": "Poole",
+    "position": "Guard",
+    "image": 1629673
+  },
+  {
+    "playerid": 1629645,
+    "fname": "Kevin",
+    "lname": "Porter Jr.",
+    "position": "Guard-Forward",
+    "image": 1629645
+  },
+  {
+    "playerid": 1629008,
+    "fname": "Michael",
+    "lname": "Porter Jr.",
+    "position": "Forward",
+    "image": 1629008
+  },
+  {
+    "playerid": 203490,
+    "fname": "Otto",
+    "lname": "Porter Jr.",
+    "position": "Forward",
+    "image": 203490
+  },
+  {
+    "playerid": 1626171,
+    "fname": "Bobby",
+    "lname": "Portis",
+    "position": "Forward",
+    "image": 1626171
+  },
+  {
+    "playerid": 204001,
+    "fname": "Kristaps",
+    "lname": "Porzingis",
+    "position": "Forward-Center",
+    "image": 204001
+  },
+  {
+    "playerid": 1630695,
+    "fname": "Micah",
+    "lname": "Potter",
+    "position": "Center",
+    "image": 1630695
+  },
+  {
+    "playerid": 203939,
+    "fname": "Dwight",
+    "lname": "Powell",
+    "position": "Forward-Center",
+    "image": 203939
+  },
+  {
+    "playerid": 1626181,
+    "fname": "Norman",
+    "lname": "Powell",
+    "position": "Guard",
+    "image": 1626181
+  },
+  {
+    "playerid": 1630554,
+    "fname": "Jason",
+    "lname": "Preston",
+    "position": "Guard",
+    "image": 1630554
+  },
+  {
+    "playerid": 1630563,
+    "fname": "Joshua",
+    "lname": "Primo",
+    "position": "Guard",
+    "image": 1630563
+  },
+  {
+    "playerid": 1627752,
+    "fname": "Taurean",
+    "lname": "Prince",
+    "position": "Forward",
+    "image": 1627752
+  },
+  {
+    "playerid": 1630202,
+    "fname": "Payton",
+    "lname": "Pritchard",
+    "position": "Guard",
+    "image": 1630202
+  },
+  {
+    "playerid": 1630243,
+    "fname": "Trevelin",
+    "lname": "Queen",
+    "position": "Guard",
+    "image": 1630243
+  },
+  {
+    "playerid": 1629674,
+    "fname": "Neemias",
+    "lname": "Queta",
+    "position": "Center",
+    "image": 1629674
+  },
+  {
+    "playerid": 1630193,
+    "fname": "Immanuel",
+    "lname": "Quickley",
+    "position": "Guard",
+    "image": 1630193
+  },
+  {
+    "playerid": 1631311,
+    "fname": "Lester",
+    "lname": "Quinones",
+    "position": "Guard",
+    "image": 1631311
+  },
+  {
+    "playerid": 203944,
+    "fname": "Julius",
+    "lname": "Randle",
+    "position": "Forward-Center",
+    "image": 203944
+  },
+  {
+    "playerid": 1630559,
+    "fname": "Austin",
+    "lname": "Reaves",
+    "position": "Guard",
+    "image": 1630559
+  },
+  {
+    "playerid": 1629629,
+    "fname": "Cam",
+    "lname": "Reddish",
+    "position": "Forward-Guard",
+    "image": 1629629
+  },
+  {
+    "playerid": 1628432,
+    "fname": "Davon",
+    "lname": "Reed",
+    "position": "Guard",
+    "image": 1628432
+  },
+  {
+    "playerid": 1630194,
+    "fname": "Paul",
+    "lname": "Reed",
+    "position": "Forward",
+    "image": 1630194
+  },
+  {
+    "playerid": 1629675,
+    "fname": "Naz",
+    "lname": "Reid",
+    "position": "Center-Forward",
+    "image": 1629675
+  },
+  {
+    "playerid": 1631197,
+    "fname": "Jared",
+    "lname": "Rhoden",
+    "position": "Guard",
+    "image": 1631197
+  },
+  {
+    "playerid": 1630208,
+    "fname": "Nick",
+    "lname": "Richards",
+    "position": "Center",
+    "image": 1630208
+  },
+  {
+    "playerid": 1626196,
+    "fname": "Josh",
+    "lname": "Richardson",
+    "position": "Guard",
+    "image": 1626196
+  },
+  {
+    "playerid": 203085,
+    "fname": "Austin",
+    "lname": "Rivers",
+    "position": "Guard",
+    "image": 203085
+  },
+  {
+    "playerid": 1629130,
+    "fname": "Duncan",
+    "lname": "Robinson",
+    "position": "Forward",
+    "image": 1629130
+  },
+  {
+    "playerid": 1629011,
+    "fname": "Mitchell",
+    "lname": "Robinson",
+    "position": "Center-Forward",
+    "image": 1629011
+  },
+  {
+    "playerid": 1631115,
+    "fname": "Orlando",
+    "lname": "Robinson",
+    "position": "Center",
+    "image": 1631115
+  },
+  {
+    "playerid": 1630526,
+    "fname": "Jeremiah",
+    "lname": "Robinson-Earl",
+    "position": "Forward",
+    "image": 1630526
+  },
+  {
+    "playerid": 1629676,
+    "fname": "Isaiah",
+    "lname": "Roby",
+    "position": "Forward",
+    "image": 1629676
+  },
+  {
+    "playerid": 1631223,
+    "fname": "David",
+    "lname": "Roddy",
+    "position": "Forward",
+    "image": 1631223
+  },
+  {
+    "playerid": 1631157,
+    "fname": "Ryan",
+    "lname": "Rollins",
+    "position": "Guard",
+    "image": 1631157
+  },
+  {
+    "playerid": 201565,
+    "fname": "Derrick",
+    "lname": "Rose",
+    "position": "Guard",
+    "image": 201565
+  },
+  {
+    "playerid": 203082,
+    "fname": "Terrence",
+    "lname": "Ross",
+    "position": "Guard-Forward",
+    "image": 203082
+  },
+  {
+    "playerid": 1626179,
+    "fname": "Terry",
+    "lname": "Rozier",
+    "position": "Guard",
+    "image": 1626179
+  },
+  {
+    "playerid": 201937,
+    "fname": "Ricky",
+    "lname": "Rubio",
+    "position": "Guard",
+    "image": 201937
+  },
+  {
+    "playerid": 1626156,
+    "fname": "D'Angelo",
+    "lname": "Russell",
+    "position": "Guard",
+    "image": 1626156
+  },
+  {
+    "playerid": 1630346,
+    "fname": "Matt",
+    "lname": "Ryan",
+    "position": "Forward",
+    "image": 1630346
+  },
+  {
+    "playerid": 1627734,
+    "fname": "Domantas",
+    "lname": "Sabonis",
+    "position": "Forward-Center",
+    "image": 1627734
+  },
+  {
+    "playerid": 1629677,
+    "fname": "Luka",
+    "lname": "Samanic",
+    "position": "Forward",
+    "image": 1629677
+  },
+  {
+    "playerid": 203967,
+    "fname": "Dario",
+    "lname": "Saric",
+    "position": "Forward-Center",
+    "image": 203967
+  },
+  {
+    "playerid": 1630846,
+    "fname": "Olivier",
+    "lname": "Sarr",
+    "position": "Center",
+    "image": 1630846
+  },
+  {
+    "playerid": 1630648,
+    "fname": "Jordan",
+    "lname": "Schakel",
+    "position": "Guard",
+    "image": 1630648
+  },
+  {
+    "playerid": 1629678,
+    "fname": "Admiral",
+    "lname": "Schofield",
+    "position": "Forward",
+    "image": 1629678
+  },
+  {
+    "playerid": 203471,
+    "fname": "Dennis",
+    "lname": "Schroder",
+    "position": "Guard",
+    "image": 203471
+  },
+  {
+    "playerid": 1630206,
+    "fname": "Jay",
+    "lname": "Scrubb",
+    "position": "Guard",
+    "image": 1630206
+  },
+  {
+    "playerid": 1631220,
+    "fname": "Dereon",
+    "lname": "Seabron",
+    "position": "Guard",
+    "image": 1631220
+  },
+  {
+    "playerid": 1630578,
+    "fname": "Alperen",
+    "lname": "Sengun",
+    "position": "Center",
+    "image": 1630578
+  },
+  {
+    "playerid": 1629012,
+    "fname": "Collin",
+    "lname": "Sexton",
+    "position": "Guard",
+    "image": 1629012
+  },
+  {
+    "playerid": 1629013,
+    "fname": "Landry",
+    "lname": "Shamet",
+    "position": "Guard",
+    "image": 1629013
+  },
+  {
+    "playerid": 1630549,
+    "fname": "Day'Ron",
+    "lname": "Sharpe",
+    "position": "Center",
+    "image": 1630549
+  },
+  {
+    "playerid": 1631101,
+    "fname": "Shaedon",
+    "lname": "Sharpe",
+    "position": "Guard",
+    "image": 1631101
+  },
+  {
+    "playerid": 1627783,
+    "fname": "Pascal",
+    "lname": "Siakam",
+    "position": "Forward",
+    "image": 1627783
+  },
+  {
+    "playerid": 1629735,
+    "fname": "Chris",
+    "lname": "Silva",
+    "position": "Forward",
+    "image": 1629735
+  },
+  {
+    "playerid": 1627732,
+    "fname": "Ben",
+    "lname": "Simmons",
+    "position": "Guard-Forward",
+    "image": 1627732
+  },
+  {
+    "playerid": 1628424,
+    "fname": "Kobi",
+    "lname": "Simmons",
+    "position": "Guard",
+    "image": 1628424
+  },
+  {
+    "playerid": 1630250,
+    "fname": "Marko",
+    "lname": "Simonovic",
+    "position": "Center",
+    "image": 1630250
+  },
+  {
+    "playerid": 1629014,
+    "fname": "Anfernee",
+    "lname": "Simons",
+    "position": "Guard",
+    "image": 1629014
+  },
+  {
+    "playerid": 1630579,
+    "fname": "Jericho",
+    "lname": "Sims",
+    "position": "Center",
+    "image": 1630579
+  },
+  {
+    "playerid": 203935,
+    "fname": "Marcus",
+    "lname": "Smart",
+    "position": "Guard",
+    "image": 203935
+  },
+  {
+    "playerid": 1630696,
+    "fname": "Dru",
+    "lname": "Smith",
+    "position": "Guard",
+    "image": 1630696
+  },
+  {
+    "playerid": 202397,
+    "fname": "Ish",
+    "lname": "Smith",
+    "position": "Guard",
+    "image": 202397
+  },
+  {
+    "playerid": 1630188,
+    "fname": "Jalen",
+    "lname": "Smith",
+    "position": "Forward-Center",
+    "image": 1630188
+  },
+  {
+    "playerid": 1628372,
+    "fname": "Dennis",
+    "lname": "Smith Jr.",
+    "position": "Guard",
+    "image": 1628372
+  },
+  {
+    "playerid": 1631095,
+    "fname": "Jabari",
+    "lname": "Smith Jr.",
+    "position": "Forward",
+    "image": 1631095
+  },
+  {
+    "playerid": 1630270,
+    "fname": "Xavier",
+    "lname": "Sneed",
+    "position": "Forward",
+    "image": 1630270
+  },
+  {
+    "playerid": 1631110,
+    "fname": "Jeremy",
+    "lname": "Sochan",
+    "position": "Forward",
+    "image": 1631110
+  },
+  {
+    "playerid": 1630531,
+    "fname": "Jaden",
+    "lname": "Springer",
+    "position": "Guard",
+    "image": 1630531
+  },
+  {
+    "playerid": 1630205,
+    "fname": "Lamar",
+    "lname": "Stevens",
+    "position": "Forward",
+    "image": 1630205
+  },
+  {
+    "playerid": 1630191,
+    "fname": "Isaiah",
+    "lname": "Stewart",
+    "position": "Forward-Center",
+    "image": 1630191
+  },
+  {
+    "playerid": 1629622,
+    "fname": "Max",
+    "lname": "Strus",
+    "position": "Guard-Forward",
+    "image": 1629622
+  },
+  {
+    "playerid": 1630591,
+    "fname": "Jalen",
+    "lname": "Suggs",
+    "position": "Guard",
+    "image": 1630591
+  },
+  {
+    "playerid": 1628410,
+    "fname": "Edmond",
+    "lname": "Sumner",
+    "position": "Guard",
+    "image": 1628410
+  },
+  {
+    "playerid": 1631306,
+    "fname": "Cole",
+    "lname": "Swider",
+    "position": "Forward",
+    "image": 1631306
+  },
+  {
+    "playerid": 1630256,
+    "fname": "Jae'Sean",
+    "lname": "Tate",
+    "position": "Forward",
+    "image": 1630256
+  },
+  {
+    "playerid": 1628369,
+    "fname": "Jayson",
+    "lname": "Tatum",
+    "position": "Forward-Guard",
+    "image": 1628369
+  },
+  {
+    "playerid": 1630678,
+    "fname": "Terry",
+    "lname": "Taylor",
+    "position": "Forward",
+    "image": 1630678
+  },
+  {
+    "playerid": 202066,
+    "fname": "Garrett",
+    "lname": "Temple",
+    "position": "Guard-Forward",
+    "image": 202066
+  },
+  {
+    "playerid": 1631207,
+    "fname": "Dalen",
+    "lname": "Terry",
+    "position": "Forward",
+    "image": 1631207
+  },
+  {
+    "playerid": 1628464,
+    "fname": "Daniel",
+    "lname": "Theis",
+    "position": "Forward-Center",
+    "image": 1628464
+  },
+  {
+    "playerid": 1630560,
+    "fname": "Cam",
+    "lname": "Thomas",
+    "position": "Guard",
+    "image": 1630560
+  },
+  {
+    "playerid": 202691,
+    "fname": "Klay",
+    "lname": "Thompson",
+    "position": "Guard",
+    "image": 202691
+  },
+  {
+    "playerid": 202684,
+    "fname": "Tristan",
+    "lname": "Thompson",
+    "position": "Center-Forward",
+    "image": 202684
+  },
+  {
+    "playerid": 1630550,
+    "fname": "JT",
+    "lname": "Thor",
+    "position": "Forward",
+    "image": 1630550
+  },
+  {
+    "playerid": 1629680,
+    "fname": "Matisse",
+    "lname": "Thybulle",
+    "position": "Guard-Forward",
+    "image": 1629680
+  },
+  {
+    "playerid": 1630214,
+    "fname": "Xavier",
+    "lname": "Tillman",
+    "position": "Forward",
+    "image": 1630214
+  },
+  {
+    "playerid": 1630225,
+    "fname": "Isaiah",
+    "lname": "Todd",
+    "position": "Forward",
+    "image": 1630225
+  },
+  {
+    "playerid": 1630167,
+    "fname": "Obi",
+    "lname": "Toppin",
+    "position": "Forward",
+    "image": 1630167
+  },
+  {
+    "playerid": 1629308,
+    "fname": "Juan",
+    "lname": "Toscano-Anderson",
+    "position": "Forward",
+    "image": 1629308
+  },
+  {
+    "playerid": 1626157,
+    "fname": "Karl-Anthony",
+    "lname": "Towns",
+    "position": "Center-Forward",
+    "image": 1626157
+  },
+  {
+    "playerid": 1629018,
+    "fname": "Gary",
+    "lname": "Trent Jr.",
+    "position": "Guard-Forward",
+    "image": 1629018
+  },
+  {
+    "playerid": 200782,
+    "fname": "P.J.",
+    "lname": "Tucker",
+    "position": "Forward",
+    "image": 200782
+  },
+  {
+    "playerid": 1626167,
+    "fname": "Myles",
+    "lname": "Turner",
+    "position": "Center-Forward",
+    "image": 1626167
+  },
+  {
+    "playerid": 1630649,
+    "fname": "Stanley",
+    "lname": "Umude",
+    "position": "Guard",
+    "image": 1630649
+  },
+  {
+    "playerid": 202685,
+    "fname": "Jonas",
+    "lname": "Valanciunas",
+    "position": "Center",
+    "image": 202685
+  },
+  {
+    "playerid": 1627832,
+    "fname": "Fred",
+    "lname": "VanVleet",
+    "position": "Guard",
+    "image": 1627832
+  },
+  {
+    "playerid": 1629020,
+    "fname": "Jarred",
+    "lname": "Vanderbilt",
+    "position": "Forward",
+    "image": 1629020
+  },
+  {
+    "playerid": 1630170,
+    "fname": "Devin",
+    "lname": "Vassell",
+    "position": "Guard-Forward",
+    "image": 1630170
+  },
+  {
+    "playerid": 1629216,
+    "fname": "Gabe",
+    "lname": "Vincent",
+    "position": "Guard",
+    "image": 1629216
+  },
+  {
+    "playerid": 203943,
+    "fname": "Noah",
+    "lname": "Vonleh",
+    "position": "Forward",
+    "image": 203943
+  },
+  {
+    "playerid": 202696,
+    "fname": "Nikola",
+    "lname": "Vucevic",
+    "position": "Center",
+    "image": 202696
+  },
+  {
+    "playerid": 1629731,
+    "fname": "Dean",
+    "lname": "Wade",
+    "position": "Forward-Center",
+    "image": 1629731
+  },
+  {
+    "playerid": 1630532,
+    "fname": "Franz",
+    "lname": "Wagner",
+    "position": "Forward",
+    "image": 1630532
+  },
+  {
+    "playerid": 1629021,
+    "fname": "Moritz",
+    "lname": "Wagner",
+    "position": "Forward-Center",
+    "image": 1629021
+  },
+  {
+    "playerid": 1630688,
+    "fname": "Ish",
+    "lname": "Wainright",
+    "position": "Forward",
+    "image": 1630688
+  },
+  {
+    "playerid": 1631133,
+    "fname": "Jabari",
+    "lname": "Walker",
+    "position": "Forward",
+    "image": 1631133
+  },
+  {
+    "playerid": 202689,
+    "fname": "Kemba",
+    "lname": "Walker",
+    "position": "Guard",
+    "image": 202689
+  },
+  {
+    "playerid": 1629022,
+    "fname": "Lonnie",
+    "lname": "Walker IV",
+    "position": "Guard-Forward",
+    "image": 1629022
+  },
+  {
+    "playerid": 202322,
+    "fname": "John",
+    "lname": "Wall",
+    "position": "Guard",
+    "image": 202322
+  },
+  {
+    "playerid": 203933,
+    "fname": "T.J.",
+    "lname": "Warren",
+    "position": "Forward",
+    "image": 203933
+  },
+  {
+    "playerid": 1629023,
+    "fname": "P.J.",
+    "lname": "Washington",
+    "position": "Forward",
+    "image": 1629023
+  },
+  {
+    "playerid": 1630613,
+    "fname": "Duane",
+    "lname": "Washington Jr.",
+    "position": "Guard",
+    "image": 1630613
+  },
+  {
+    "playerid": 1631102,
+    "fname": "TyTy",
+    "lname": "Washington Jr.",
+    "position": "Guard",
+    "image": 1631102
+  },
+  {
+    "playerid": 1629139,
+    "fname": "Yuta",
+    "lname": "Watanabe",
+    "position": "Guard-Forward",
+    "image": 1629139
+  },
+  {
+    "playerid": 1630322,
+    "fname": "Lindy",
+    "lname": "Waters III",
+    "position": "Forward",
+    "image": 1630322
+  },
+  {
+    "playerid": 1630570,
+    "fname": "Trendon",
+    "lname": "Watford",
+    "position": "Forward",
+    "image": 1630570
+  },
+  {
+    "playerid": 1631212,
+    "fname": "Peyton",
+    "lname": "Watson",
+    "position": "Guard",
+    "image": 1631212
+  },
+  {
+    "playerid": 1631104,
+    "fname": "Blake",
+    "lname": "Wesley",
+    "position": "Guard",
+    "image": 1631104
+  },
+  {
+    "playerid": 201566,
+    "fname": "Russell",
+    "lname": "Westbrook",
+    "position": "Guard",
+    "image": 201566
+  },
+  {
+    "playerid": 1629632,
+    "fname": "Coby",
+    "lname": "White",
+    "position": "Guard",
+    "image": 1629632
+  },
+  {
+    "playerid": 1628401,
+    "fname": "Derrick",
+    "lname": "White",
+    "position": "Guard",
+    "image": 1628401
+  },
+  {
+    "playerid": 1631298,
+    "fname": "Jack",
+    "lname": "White",
+    "position": "Forward",
+    "image": 1631298
+  },
+  {
+    "playerid": 1630580,
+    "fname": "Joe",
+    "lname": "Wieskamp",
+    "position": "Guard-Forward",
+    "image": 1630580
+  },
+  {
+    "playerid": 1630598,
+    "fname": "Aaron",
+    "lname": "Wiggins",
+    "position": "Guard",
+    "image": 1630598
+  },
+  {
+    "playerid": 203952,
+    "fname": "Andrew",
+    "lname": "Wiggins",
+    "position": "Forward",
+    "image": 203952
+  },
+  {
+    "playerid": 1629623,
+    "fname": "Lindell",
+    "lname": "Wigginton",
+    "position": "Guard",
+    "image": 1629623
+  },
+  {
+    "playerid": 1631214,
+    "fname": "Alondes",
+    "lname": "Williams",
+    "position": "Guard",
+    "image": 1631214
+  },
+  {
+    "playerid": 1631495,
+    "fname": "Donovan",
+    "lname": "Williams",
+    "position": "Guard",
+    "image": 1631495
+  },
+  {
+    "playerid": 1629684,
+    "fname": "Grant",
+    "lname": "Williams",
+    "position": "Forward",
+    "image": 1629684
+  },
+  {
+    "playerid": 1631114,
+    "fname": "Jalen",
+    "lname": "Williams",
+    "position": "Guard-Forward",
+    "image": 1631114
+  },
+  {
+    "playerid": 1631119,
+    "fname": "Jaylin",
+    "lname": "Williams",
+    "position": "Forward",
+    "image": 1631119
+  },
+  {
+    "playerid": 1631466,
+    "fname": "Jeenathan",
+    "lname": "Williams",
+    "position": "Guard",
+    "image": 1631466
+  },
+  {
+    "playerid": 1629026,
+    "fname": "Kenrich",
+    "lname": "Williams",
+    "position": "Guard-Forward",
+    "image": 1629026
+  },
+  {
+    "playerid": 1631109,
+    "fname": "Mark",
+    "lname": "Williams",
+    "position": "Center",
+    "image": 1631109
+  },
+  {
+    "playerid": 1630172,
+    "fname": "Patrick",
+    "lname": "Williams",
+    "position": "Forward",
+    "image": 1630172
+  },
+  {
+    "playerid": 1630533,
+    "fname": "Ziaire",
+    "lname": "Williams",
+    "position": "Forward",
+    "image": 1630533
+  },
+  {
+    "playerid": 1629057,
+    "fname": "Robert",
+    "lname": "Williams III",
+    "position": "Center-Forward",
+    "image": 1629057
+  },
+  {
+    "playerid": 1631246,
+    "fname": "Vince",
+    "lname": "Williams Jr.",
+    "position": "Guard",
+    "image": 1631246
+  },
+  {
+    "playerid": 1629627,
+    "fname": "Zion",
+    "lname": "Williamson",
+    "position": "Forward",
+    "image": 1629627
+  },
+  {
+    "playerid": 1629685,
+    "fname": "Dylan",
+    "lname": "Windler",
+    "position": "Guard-Forward",
+    "image": 1629685
+  },
+  {
+    "playerid": 1626159,
+    "fname": "Justise",
+    "lname": "Winslow",
+    "position": "Forward-Guard",
+    "image": 1626159
+  },
+  {
+    "playerid": 1630164,
+    "fname": "James",
+    "lname": "Wiseman",
+    "position": "Center",
+    "image": 1630164
+  },
+  {
+    "playerid": 1626174,
+    "fname": "Christian",
+    "lname": "Wood",
+    "position": "Forward",
+    "image": 1626174
+  },
+  {
+    "playerid": 1626153,
+    "fname": "Delon",
+    "lname": "Wright",
+    "position": "Guard",
+    "image": 1626153
+  },
+  {
+    "playerid": 1630593,
+    "fname": "McKinley",
+    "lname": "Wright IV",
+    "position": "Guard",
+    "image": 1630593
+  },
+  {
+    "playerid": 1628221,
+    "fname": "Gabe",
+    "lname": "York",
+    "position": "Guard",
+    "image": 1628221
+  },
+  {
+    "playerid": 201152,
+    "fname": "Thaddeus",
+    "lname": "Young",
+    "position": "Forward",
+    "image": 201152
+  },
+  {
+    "playerid": 1629027,
+    "fname": "Trae",
+    "lname": "Young",
+    "position": "Guard",
+    "image": 1629027
+  },
+  {
+    "playerid": 1630209,
+    "fname": "Omer",
+    "lname": "Yurtseven",
+    "position": "Center",
+    "image": 1630209
+  },
+  {
+    "playerid": 203469,
+    "fname": "Cody",
+    "lname": "Zeller",
+    "position": "Forward-Center",
+    "image": 203469
+  },
+  {
+    "playerid": 1627826,
+    "fname": "Ivica",
+    "lname": "Zubac",
+    "position": "Center",
+    "image": 1627826
+  }
+]
